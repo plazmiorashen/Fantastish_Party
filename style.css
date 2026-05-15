@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aquamarine;
+}
+h1 {
+    text-align: center;
+    color: darkgoldenrod ;
+}
+footer p {
+    background-color: lawngreen;
+}
+nav a {
+    margin: 20px;
+    border: 1px solid blue;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: red;
+}
+.paintedimg {
+    background-color:rgb(206, 93, 73) ;
+    padding: 10px;
+    border: 1px solid rgb(206, 93, 73);
+    border-radius: 10px;
+}
+main {
+    margin: 20px;
+}
